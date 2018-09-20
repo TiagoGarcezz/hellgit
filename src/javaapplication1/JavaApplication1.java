@@ -18,6 +18,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         System.out.println(" Hello Git");
     int a = 5;
+    int x = 6;
     }
     
 }
